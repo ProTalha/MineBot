@@ -41,6 +41,6 @@ async def diaset():
 	
 @bot.command()
 async def creator():
-	await bot.say('My Creators Name Is ProTalha You Can Join His Server From Here https://discord.gg/uR8VJbg')
+	await bot.say('My Creators Name Is ProTalha You Can Join His Server From Here https://discord.gg/YQQUD35')
 			
-bot.run('NTQwMTkzMjMxNTYwOTAwNjA4.DzNXNg.T_kBaIOzokaKinBIs_MCkowOxzc')
+bot.run('NTQwNzY3OTU0MDk1MzA4ODMw.DzVtVg.8TonOMBzC0a-nRBQkC7a1mPmiiQ')
